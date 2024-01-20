@@ -8,6 +8,9 @@
     "php": ">=7.1",
     "netresearch/jsonmapper": "^3.0"
   },
+  "replace":{
+    "netresearch/jsonmapper": "^4.2"
+  },
   "autoload": {
     "psr-4": {"Keepa\\": "src/"}
   }
